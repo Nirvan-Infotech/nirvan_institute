@@ -1,0 +1,16 @@
+Operators
+
+1. Arithmatic Operators
+2. Assignment Operators
+3. Relational Operators
+4. Logical Operators
+5. Bitwise Operators
+6. Increment / Decrement Operators
+
+
+1. Arithmatic Operators
+    + -> a+b
+    - -> a-b
+    * -> a*b
+    / -> a/b -> quotient -> input: float / output: float
+    % -> a%b -> reminder -> input: int / output: int

@@ -1,0 +1,12 @@
+Looping Statements
+
+    1. Number Based Loops
+        - for loop
+    2. Condition Based Loops
+        - while loop
+        - do...while loop
+    
+    Syntax of for loop:
+        for(init(start); condition(end); inc/dec(setps)){
+            logic;
+        }

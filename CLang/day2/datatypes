@@ -1,0 +1,36 @@
+Datatypes 
+
+    1. Primary / Primitive Datatypes
+    2. Derived Datatypes
+    3. User-Defined Datatypes
+
+    1. Primary / Primitive Datatypes
+        1.1) int
+            Name: Integer
+            Type: +ve(10,55,888), -ve(-87,-9,-99), 0
+            size: 64bit -> 4 bytes
+                  32bit -> 2 bytes
+            Access Specifier: %d, %i
+            Ex.: int age=19;
+
+
+        1.2) float
+            Name: Floating Point Number(Decimal Point Number)
+            Type: +ve(10.00,55.23,88.8), -ve(-87.320,-9.20,-9.9), 0.00, 0.95
+            size: 4 bytes
+            Access Specifier: %f
+            Ex.: float pi=3.14;
+
+        1.3) double
+            Name: Floating Point Number(Decimal Point Number)
+            Type: +ve(10.00,55.23,88.8), -ve(-87.320,-9.20,-9.9), 0.00, 0.95
+            size: 8 bytes
+            Access Specifier: %lf(long float)
+            Ex.: double per=99.25;
+
+        1.4) char
+            Name: Characters
+            Type: [A-Z], [a-z], [0-9], Special Character[@#$%&*!]
+            size: 1 byte
+            Access Specifier: %c
+            Ex.: char symbol = '@';
