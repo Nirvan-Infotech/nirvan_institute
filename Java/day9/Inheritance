@@ -1,0 +1,8 @@
+Inheritance 
+
+    1. Simple
+        one base class -> one chlid class
+    2. Multilevel
+    3. Hirerchical
+    4. Multiple
+    5. Hybrid
