@@ -1,0 +1,9 @@
+2 Dimensional Array
+    Declare 2d array:   
+        data_type arr_name[row][column];
+
+    Define 2d array:
+        data_type arr_name[row][columns] = {
+                                                {c1,c2},
+                                                {c1,c2}
+                                            };
