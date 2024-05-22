@@ -1,0 +1,36 @@
+Function: It is a code block that will be executed multiple times
+
+Types of User Defined Functions:   
+    1. Function without arguments & without return value
+    2. Function with arguments & without return value
+    3. Function without arguments & with return value
+    4. Function with arguments & with return value
+
+
+    1. Function without arguments & without return value
+        syntax:    
+            return_type fun_name(){
+                function body;
+            }
+    
+    2. Function with arguments & without return value
+        syntax:    
+            return_type fun_name(dt arg1, dt arg2, ..., dt argn){
+                function body;
+            }
+
+    3. Function without arguments & with return value
+        syntax: 
+            return_type fun_name(){
+                function body;
+
+                return value;
+            }
+        
+    4. Function with arguments & with return value
+        syntax:
+            return_type fun_name(dt arg1, ..., dt argn){
+                function body;
+
+                return value;
+            }
